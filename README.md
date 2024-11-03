@@ -1,6 +1,6 @@
  Hi there! 👋 I'm Anagha
 
-I'm an aspiring Data Analyst passionate about transforming data into actionable insights to solve real-world problems. With a background in **Electronics and Communication Engineering and hands-on experience in Power BI, SQL, and Python for data analysis, I'm building my portfolio through a series of projects that showcase my analytical skills.
+I'm an aspiring Data Analyst passionate about transforming data into actionable insights to solve real-world problems. With a background in Electronics and Communication Engineering and hands-on experience in Power BI, SQL, and Python for data analysis, I'm building my portfolio through a series of projects that showcase my analytical skills.
 
 🔍 My Current Focus:
 - Data Analysis & Visualization: Using tools like Power BI and Python to uncover patterns and insights.
